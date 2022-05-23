@@ -1,0 +1,32 @@
+{
+  "foods": [
+    {
+      "name": "Kathiyawadi Thali",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4U62fgtXbcNyW_7dsas-ef6iwuY882Vb_Xw&usqp=CAU",
+      "category" : "Dinner"
+    },
+    { "name": "Poha",
+      "url": "https://pipingpotcurry.com/wp-content/uploads/2020/12/Poha-Recipe-indori-Piping-Pot-Curry.jpg",
+      "category" : "Breakfast"
+    },
+    { "name": "Burrito",
+      "url": "https://az826390.vo.msecnd.net/cdn/media/home/inspiring_recipes/recipes/new_-_b/pub82040-recette-laptitevite-recettes-1160x650-bs011909.ashx?la=en&mw=1160&w=1160&hash=EA1FDE86613CA95382794DE83075FEBFD62E7CF9",
+      "category" : "Lunch"
+    },
+    { "name": "Gulab Jamun",
+      "url": "https://static.toiimg.com/thumb/63799510.cms?imgsize=1091643&width=800&height=800",
+      "category" : "Desert"
+    },
+    { "name": "Vada Deeped in Sambhar",
+      "url": "https://www.spiceupthecurry.com/wp-content/uploads/2019/05/medu-vada-3.jpg",
+      "category" : "Brunch"
+    }
+  ],
+
+  "reciepe" : [
+    {
+      "name" : "Poha",
+      "ingrediant": ["1/2 kg poha", "1tb sp salt", "1tb sp papper", "1tb sp termaric powder","1tb sp chilli","handful nuts"]
+    }
+  ]
+}
